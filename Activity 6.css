@@ -1,0 +1,31 @@
+*{  box-sizing: border-box 10px;
+    text-align: center; font-family: 'Liu Jian Mao Cao', cursive;
+    font-family: 'Vibur', cursive; font-size: 20px; }
+    
+    
+    body {padding: 20px;
+  }
+  .button {   font-size: 10px; pointer-events: visible;}
+  header {
+    padding: 20px;
+    margin-bottom: 20px;
+    color: rgb(51, 51, 51);
+    background: rgb(7, 52, 177);
+  }
+  
+  section { padding: 20px;
+  color: blue;background-color: cornsilk;
+}.section {max-width: border outset 40px; ;}
+  
+  #left { padding-left: 0fr; color: cyan;
+  }
+  
+  #middle { padding:20px ; color: darkcyan;
+  }
+  
+  #right { padding: 40px; margin-inline-start: 40px border-color:#aacaca;
+  }
+  
+  
+  footer {
+  }

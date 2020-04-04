@@ -1,5 +1,6 @@
 *, *::after, *::before {
-  box-sizing: border-box;
+  box-sizing: border-box; ont-family: 'Liu Jian Mao Cao', cursive;
+  font-family: 'Vibur', cursive; font-size: 45px;
 }
 
 .container {

@@ -1,17 +1,11 @@
-/*
-Each of these CSS elements is associated with an HTML Element, Class, or ID.
-Flip between this CSS file and the HTML to see how things line up.
-Experiment with deleting lines of code from the CSS to see how it affects the webpage when you refresh in the browser.
-*/
-
-body {
+#body {
   padding: 0;
   margin: 0;
-  font-family: Georgia, "Times New Roman", Times, serif;
-  font-size: 18px;
-  line-height: 150%;
-  color: #333;
-  background: #efeee7;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 20px;
+  line-height: 1200%;
+  color: rgb(48, 3, 3);
+  background: #5c5312;
 }
 
 header {
